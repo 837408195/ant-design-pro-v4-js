@@ -174,6 +174,12 @@ export default defineConfig({
                   component: './list/table-list',
                 },
                 {
+                  name: 'table-test',
+                  icon: 'smile',
+                  path: '/list/table-test',
+                  component: './list/table-test',
+                },
+                {
                   name: 'basic-list',
                   icon: 'smile',
                   path: '/list/basic-list',
